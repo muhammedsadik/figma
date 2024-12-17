@@ -4,6 +4,25 @@
   box-sizing: border-box;
 }
 
+.hometop {
+  margin-top: 30px;
+  height: 60px;
+  width: 350px;
+  text-align: center;
+  background-color: tomato;
+}
+.homebottom {
+  background-color: blueviolet;
+  height: 60px;
+  width: 350px;
+}
+
+.hometop a {  
+  font-size: 100px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
 .container {
   background-color: #FFFFFF;
   width: 1440px;
