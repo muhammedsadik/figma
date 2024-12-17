@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #FFFFFF;
+  width: 1440px;
+}
+
+.header {
+  width: 100%;
+  margin-bottom: 39px;
+}
+
+.headerContent {
+  margin: 80px 165px 5px 165px;
+  width: 1110px;
+}
+
+.headerContentWhicle {
+  padding-bottom: 17px;
+}
+
+.headerContent h3 {
+  width: 824px;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  margin-bottom: 28px;
+  color: #212121;
+}
+
+.farok {
+  display: flex;
+}
+
+.farok p {
+  width: 186px;
+  margin-left: 12px;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.computer {
+  width: 1110px;
+  height: 624px;
+  margin-left: 165px;
+  border-radius: 12px;
+}
+
+.computerContent {
+  height: 384px;
+}
+
+.computerText {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  margin-left: 166px;
+  margin-right: 162px;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28.8px;
+  text-align: left;
+  width: 1112px;
+  color: #212121;
+}
+
+.lookContainer {
+  height: 547px;
+  padding-top: 80px;
+}
+
+.lock {
+  width: 1110px;
+  height: 387px;
+  margin-right: 164px;
+  margin-bottom: 80px;
+  margin-left: 166px;
+  display: flex;
+}
+
+.lockImg {
+  width: 540px;
+  height: 387px;
+  float: left;
+  margin-right: 24px;
+}
+
+.lockText{
+  width: 546px;
+  height: 386px;
+}
+
+.lockText h6 {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: left;
+  margin-bottom: 16px; 
+  color: #212121;
+}
+
+.lockText p {
+  font-family: Open Sans;
+  font-size: 16.5px;
+  text-align: left;
+  font-weight: 400;
+  line-height: 28px;
+  height: 280px;
+  color: #212121;
+}
+
+
+
+.roald {
+  width: 1110px;
+  height: 347px;
+  margin-left: 165px;
+}
+/*
+.roald h4 {
+  margin: 0 124px 140px 126px;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 37px;
+  text-align: center;
+}
+
+.roald h6 {
+  margin-bottom: 96px;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: center;
+} */
